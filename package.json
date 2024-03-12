@@ -1,0 +1,15 @@
+{
+  "name": "api-node-mongodb-mongoose",
+  "version": "1.0.0",
+  "description": "Projeto API node MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Antonino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
